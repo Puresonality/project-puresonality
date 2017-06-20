@@ -1,0 +1,16 @@
+' /articles ' contains the articles. (whoa)
+
+' /code ' has no designated use yet.
+
+' /images ' contains infographs and visuals for the project.
+add where images should go in /images/notes.txt
+
+' /stack_evaluation ' is an html and javascript form designed to evaluate people's stacks. If you have ideas for questions, submit them in suggestions.txt
+
+' /project_info ' contains metadata and other misc data.
+
+Update log.txt with what you've submitted, if you can.
+
+'LICENSE' and 'README' are pretty straightforward.
+
+
