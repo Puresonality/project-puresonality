@@ -89,13 +89,23 @@ Nothing in this Public License constitutes or may be interpreted as a limitation
 *****************************************************
 
 The following terms also apply:
-You may not host, share, distribute, or offer for distribution this project if doing so in any way generates revenue or potential revenue for you. If you distribute the project, it must not be distributed if it has been modified or changed in any way, and or is without the entire contents as was originally produced by the project, at this site, or the official site, except permission has been granted by the Licensor.
+You may not host, share, distribute, or offer for distribution this project if doing so in any way generates revenue or potential 
+revenue for you. If you distribute the project, it must not be distributed if it has been modified or changed in any way, and or is 
+without the entire contents as was originally produced by the project, at this site, or the official site, except permission has been granted by the Licensor.
 
-You may not host, share, distribute, or offer for distribution this project, such as through a website or cdn. Rather, You are encouraged to link the user to the most recently dated version of the project, found either here, at https://github.com/Puresonality/project-puresonality/ , or at the official website for the project, as determined by the Licensor.
+You may not host, share, distribute, or offer for distribution this project, such as through a website or cdn. Rather, You are
+encouraged to link the user to the most recently dated version of the project, found either here, at
+https://github.com/Puresonality/project-puresonality/ , or at the official website for the project, as determined by the Licensor.
 
-You also agree that in usage of the project in any fashion whatsoever, you will adhere to the principles and practices as outlined in the 'Functions Applied > Ethics' Section of project. This includes, but is not limited to, disrespectful comments or behaviour in any way to any other person on basis of their 'type'. In doing the aforementioned, you immediately forfeit the ability to use, distribute, edit, change, access, modify, and interact with the project and project files in any way whatsoever, as well as surrender the rights to any previous modifications, additions, or interactions you made to the project. You are encouraged to reconsider your actions. If you apologize, the Licensor may forgive you.
+You also agree that in usage of the project in any fashion whatsoever, you will adhere to the principles and practices as outlined in
+the 'Functions Applied > Ethics' Section of project. This includes, but is not limited to, disrespectful comments or behaviour in any
+way to any other person on basis of their 'type'. In doing the aforementioned, you immediately forfeit the ability to use, distribute,
+edit, change, access, modify, and interact with the project and project files in any way whatsoever, as well as surrender the rights to
+any previous modifications, additions, or interactions you made to the project. You are encouraged to reconsider your actions. If you
+apologize, the Licensor may forgive you.
 
-By interacting with the project, you agree that you have read the copyright, license, disclaimer, and other such documents pertaining to the rights granted to users of the project, and agree to the terms.
+By interacting with the project, you agree that you have read the copyright, license, disclaimer, and other such documents pertaining to
+the rights granted to users of the project, and agree to the terms.
 
 You are also encouraged to recognize that the Licensor thinks you are awesome if you have read this far.
 
