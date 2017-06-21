@@ -26,5 +26,11 @@ subject to the project license and copyright, and is no longer your property.
 Please read the license and copyright before submitting.
 Please also add your name to the project_info/data/Contributors.txt if you are going to contribute.
 
+You may not use this project for any commercial purposes without my permission.
+You may not share this project after you have modified it outside of github without my permission.
+You are free to share the project with anybody, insofar as you include a complete copy of the project when sharing it.
+You are encouraged to do that.
+This is to ensure that this project remains the central point of revision, and that it is not rehosted elsewhere.
+
 Thank you!
  
