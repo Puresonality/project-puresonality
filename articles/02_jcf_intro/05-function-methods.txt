@@ -1,0 +1,72 @@
+In the previous section, we discussed introversion and extroversion; whether a function receives it's information from within or without. In this section, we discuss function methods, which determine how a function processes data. While much of this may not make immediate sense, it will quite soon, so just keep reading, because it's worth the short wait.
+
+
+You've probably noticed by now that you think differently from other people. You may have noticed that some people think completely opposite to you, or perhaps do things in ways that you think aren't the best way to do things. When looking at cognitive functions, the answer to this question is not just that people think differently, but that <i> the way they fundamentally process information may be different from the way you fundamentally process information.</i> In other words, for many people, innately, their brain processes data differently than yours does. Of course, this is obvious, but rather than ending the conversation at the fact that people think differently, we discuss how exactly people think differently, and how this knowledge allows us to understand how people see the world in their language, not just our language.
+
+METHODS
+
+The METHOD of a function determines <i>the way<i> that the function processes data. (Data, in this case, can be anything. Additionally, methods are also called processes or preferences sometimes, but here I use the term 'method' to avoid ambiguity.) It is not the 'what' of the data; the data can be anything, but the <i>way</i> in which it processes that data. For now, you can understand a Method as something akin to a mental 'algorithm', that has a certain way of working with information.
+
+There are TWO types of methods; JUDGING and PERCEIVING.
+
+Judging methods take information and come to <i>CONCLUSIONS<i>. They look at information and decide what should be done with it; what the imperative action or understanding is. This includes determining what actions should be taken, and determining what to believe about something. The key here is that they are strictly conclusive rather than observational.
+
+Perceiving methods assign a certain structure to data- as the name implies, they take in information in a certain manner. The key here is that they are strictly observational rather than conclusive.
+
+These are two kinds of METHODS, Judging, and Perceiving, which I just discussed. For each, there are two actual methods. The two Judging Methods are Thinking and Feeling, and the two perceiving methods, are Sensing and Intuition.
+
+JUDGING METHODS
+
+Thinking and Feeling are the two judging methods. Now, everybody can think, and everybody can feel. But here, Thinking and Feeling refer to concepts other than they may traditionally be used to represent.
+
+Thinking refers to (essentially), logical reasoning. Thinking deals with looking at things quantitatively in terms of how they function, and how they interact with other things in a mechanical sense. Mechanical is a generally good way to think about the Thinking Method- it evaluates data in an attempt to 'map' out the interactions of whatever is being processed, so to speak.
+
+Feeling, on the other hand, is (essentially) value based reasoning. We use feeling to determine the importance, value, significance, and priority of things. It evaluates data in an attempt to see what things are 'worth'. While Feeling deals with emotions and emotional processing to a great extent, Feeling is not necessarily equivalent to 'emotions' (which will be explained in depth later).
+
+[
+
+Perhaps you've probably noticed how these two opposites are juxtaposed in a great deal of mediums; literature, cinematography, and others - The 'cold', 'calculating', 'cerebral' use of 'intellect' and 'logic' compared to the contrasting 'warm', 'passionate', 'heartfelt' emotional 'feelings'. These are all in quotes because in each instance, it is often the case that these are rather adjectives to describe something else being compared, rather than the actual words themselves being in opposition, meaning they can refer to something quite different than what they are in actuality. Allow me to explain further. In a strictly biological sense, it would seem absurd to claim that the heart and brain are inherently opposite, as we know they are codependent, and in no real sense do they actually oppose each other. Or that, as a crude example, deciding if you feel happy or sad is something your heart actually determines, or that if you are using your brain to calculate, say, a math problem, that there is an emotional absence, in your brain or otherwise. Perhaps the origin of this is that feeling emotions is feeling 'alive', and the heart is what pumps blood around your body to keep it alive, so the phrase 'heartfelt' stems from this, while we relate the brain with intelligence because it is where all our mental functions happen, so we relate the brain to intellect, and these two ideas are put in opposition. At any rate, subtly claiming there is a vague relation between these two, in the particular way that I have just discussed, is fallacious. Rather, what we see put in opposition is an idea beyond this watered down, culturally vague idea of emotion and 'reason'.
+
+
+The root of this extrapolation comes from a simple observation that we tend to see in certain people. We find that some people are very expressive; their faces are in motion, displaying how they feel. It moves from to sad to disgusted or surprised with the ebb and flow of a conversation. That these people have passionate concerns that you might often hear explained often, they like or dislike certain things, and they will voice these opinions. Naturally here there is a generalization, but the general description here is feeling- they display their emotions, or use them in order to reason through things.
+
+
+We also see other people who tend to 'think things out', who, not coincidentally, often seem to have faces which don't display so much emotion as others. It seems this group tends to use 'logic and reason', and don't let their 'wild emotions' get in the way of 'what makes sense'. They can sound somewhat monotone (stereotypically). In general, they rely more on 'thought' than' emotions.
+
+Now, it is absurd to say we can't all have both 'emotions' and 'logical thought', but yet, they are commonly put in contrast to one another, as if they are mutually exclusive. The lack of definition in the nature of the relation between thinking and feeling is the source of the misunderstandings in the general descriptions of these two mental processes in cultural forms of information mediums (read, books, movies, articles).
+
+I reference these improper descriptions of these two natures, because it shows that there is a widespread acknowledgement, though not directly so, that these two general ideas lie in opposition. While the exact details of what 'they' are varies, and is in some case wrong. They are acknowledged, and acknowledged in opposition.
+
+]
+
+These two separate natures are a result of there being two differentiated mental methods to analyze information to come to conclusions- the first being Thinking, the second being Feeling.
+
+Thinking is what allows us to analyze data in a logical and quantitative way. For example, "That animal just ate that berry, and died. Therefore, if I eat that berry, I will die." This is a simple statement illustrating the mental process behind determining how the berry works by analyzing cause and effect. There are other variables in this statement, but the point is only to illustrate how Thinking works, in essence.
+
+Feeling, on the other hand, allows us to determines what is significant, important, or valuable. For example. 'I don't want to die, and I know that this berry kills me. So, I will not eat that berry." Note that this is still reasoning, but the crux of the statement lies in the word, 'want'. Assuming you don't want to die, the action that you have decided to take is to not eat the berry. Again, there are other variables at play here, but the point is only to illustrate how Feeling works, in essence.
+
+In this way, Thinking and Feeling work together to allow us to see how things work, and determine what we want to do, or how we should feel, about it. These two go hand in hand to allow us to make decisions and judgements in what we should do and believe.
+
+
+PERCEVING METHODS
+
+Sensing and Intuition are the two Perceiving Methods. This means they are observational, and determine how a function receives data.
+
+Sensing takes in data as it has been observed, in a direct way. It deals heavily with the physical world, and how things are, and have been. We use sensing to make observations on what is real and observable. Sensing also relies a great deal on physical senses (hence why it is called sensing). The key here is that, for the most part, it deals with things that have been or are, and are real, or tangible.
+
+
+Intuition contrastingly deals with what could or might be. We use intuition to make predictions, identify patterns and relations, and see connections between things. Intuition notices connections between things, and uses these to identify patterns, which allow it to determine how events will, or typically do, unfold. Intuition is often said to be 'abstracting', in the way that it is not so much focused on the actual structure of something rather than finding a general structure of the information. You might say it tends to ignore details, but pays attention to the general idea of something.
+
+You may notice some dichotomies are already being brought to view. Two of these are the opposites of past and future, and of the general and the specific. These are noteworthy and relevant, and will be explained in depth later.
+
+CONCLUSION
+
+These explanations are sufficient to continue on to the core of Jungian Cognitive Functions. Many of the lose ends left in the previous explanations will be tied up in the next section.
+
+EXTRODUCTION
+
+It is worth noting that Jung called the Judging Methods 'rational' and the Perceiving Methods 'irrational', though in our terms 'irrational' and 'rational' are inaccurate labels for the Methods. Still, this is how Jung referred to the Methods, and this terminology is still somewhat commonly used or referred to.
+
+
+
+

@@ -1,0 +1,20 @@
+	1. Site Intro
+		a. Home (Frontpage, index redirects here)
+			i. News
+			ii. Forum?
+			iii. Sitemap link
+		b. Purpose
+		c. Site Map
+		d. About
+	2. JCF Intro
+		a. Overview
+		b. Function Eval
+		c. Jungian Cognitive Functions
+		d. Basic Context
+		e. Introversion and Extroversion
+		f. Function Methods
+		g. The 8 Cognitive Functions
+		h. The Function StackCF Revisited
+		i. Terminology and Notation
+		j. Review and Conclusion
+		i. Next Steps

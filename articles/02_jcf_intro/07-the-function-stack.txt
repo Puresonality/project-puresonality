@@ -1,0 +1,109 @@
+In this section, we pull together the previous sections into a cohesive whole. The Function Stack is the central concept of Jungian Cognitive Functions, and provides a framework for understanding how these cognitive tools are wielded by an individual.
+
+Darkness and light, good and evil, land or sea, male or female, left and right, past and future, logic and emotion, old and young, day and night, the list goes on and on. In this way, so too does human cognition come in opposite, yet complimentary pieces.
+
+You may have noticed how in the past sections, each item described, each method and the attitudes, come in opposites. Introversion and Extroversion are opposed, Judging Methods are opposed to Perceiving methods, Thinking is opposed to Feeling, and Sensing is opposed to Intuition. They are not contradictory, but complimentary (or at least should be, as will be seen). This core idea of opposition provides a sense of balance, but also specialization. So too is this idea present in the function stack.
+
+The Function Stack
+
+The Function stack is a definitive order of functions in a human psyche, which are staggered in terms of strength, and positioned according to their role in the stack. There are 4 functions in a stack which an individual uses in varying degrees in order to perform cognitive evaluations to process all the data that they encounter; to observe it, and to come to results, both externally, dealing with the environment, and internally, dealing with the self. The Function Stack is symmetrical in several ways: by strength, by attitude, and by method. Now, in English:
+
+An individual has 4 of the 8 functions, which were covered in the last section. The individual's first function, also called the Dominant, is the strongest function. The person uses their dominant primarily. The second function, also called the Auxiliary, is the second strongest function. The Tertiary is the third function, and as such is third strongest, and the inferior is the last strongest, which means it is the weakest.
+
+Chart.jpg
+
+These rules determine the ordering of the attitudes in the stack, and the ordering and kind of methods in the stack.
+
+The Function stack is balanced in terms of attitude, but has a general preference for one attitude over the other. The attitudes flip flop in the stack. So,
+
+If the
+Dominant function has an <span a1>extroverted attitude, then the
+auxiliary function has an <span a2> introverted attitude, the
+tertiary function has an <span a1> extroverted attitude, and, opposite the dominant, the
+inferior function has an <span a2> introverted attitude.
+
+If the
+Dominant function has an <span a2> introverted attitude, then the
+auxiliary function has an <span a1> extroverted attitude, the
+tertiary function has an <span a2> introverted attitude, and, opposite the dominant, the
+inferior function has an <span a1> extroverted attitude.
+
+     e function stack has two Axes, or two contrasting attitude pairs that function together. 
+
+The Function stack is balanced in terms of method.
+
+If the
+Dominant function has an <span b1> Judging method, then the
+auxiliary function has a <span b2> Perceiving method, the
+tertiary function has a <span b2> Perceiving method, and the
+inferior function has an <span b1> Judging method.
+
+If the
+Dominant function has a <span b1> Perceiving method, then the
+auxiliary function has an <span b2> Judging method, the
+tertiary function has an <span b2> Judging method, and the
+inferior function has a <span b1> Perceiving method.
+
+
+
+The last method is the other method of the same method type as the first, and the thi last two methods in the stack have the opposite methods of the same method type as the first two. So, if the first function had the feeling method, which is a judging method, then the last function would be the opposite method of that same type, in this case, that would mean the inferior function would have the Thinking method.
+
+With these rules, there are 16 possible function stacks that can be made. Here is the list of each one:
+
+Stack 'title'	Dominant / First	Auxiliary / Second	Tertiary / Third	Inferior / Fourth
+ESFP	Se	Fi	Te	Ni
+ESTP	Se	Ti	Fe	Ni
+ISFJ	Si	Fe	Ti	Ne
+ISTJ	Si	Te	Fi	Ne
+ENFP	Ne	Fi	Te	Si
+ENTP	Ne	Ti	Fe	Si
+INFJ	Ni	Fe	Ti	Se
+INTJ	Ni	Te	Fi	Se
+ESFJ	Fe	Si	Ne	Ti
+ENFJ	Fe	Ni	Se	Ti
+ISFP	Fi	Se	Ni	Te
+INFP	Fi	Ne	Si	Te
+ESTJ	Te	Si	Ne	Fi
+ENTJ	Te	Ni	Se	Fi
+ISTP	Ti	Se	Ni	Fe
+INTP	Ti	Ne	Si	Fe
+
+
+
+
+
+
+[Insert 16 types table as shown above in html]
+
+The above table will be very helpful as you go through this section, and you will be referencing it often.
+Every function stack follows the form <pre> X<sub>1</sub>a Y<sub>1</sub>b Y<sub>2</sub>a X<sub>2</sub>b </pre>, with X and Y being method types (Judging or Perceiving), the subscript signifying which of those two methods it is, and a and b representing which attitude each function would have.
+
+Now that you've seen all the function stacks, let's go through this again.
+
+The Dominant function is the first function in the function stack, followed by the Auxiliary. Notice that each function resides as the dominant function for 2 of the 16 function stacks. This is because for any dominant, the Auxiliary can have either of the methods from the opposite method type.
+
+Following, the Tertiary is the opposite method of the same method type as the auxiliary, with the opposite attitude, and lastly, the Inferior 
+
+For example, suppose the Dominant was Se. The auxiliary has to be of the opposite method type, which would be a judging method, so either Thinking, or Feeling. It also has to be introverted, because the attitude switches as you step down the stack. So, it can either be Ti or Fi, in this specific example.
+
+
+INTERSTACK RELATIONS
+
+ 
+
+ 
+
+The cognitive function stack has a developmental timeline. Functions that are
+
+
+
+
+
+
+Right hand right leg analogy
+
+
+
+Good at some things, bad at others.
+Function Stack
+Function Axes
