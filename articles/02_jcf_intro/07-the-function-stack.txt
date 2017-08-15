@@ -1,14 +1,16 @@
-In this section, we pull together the previous sections into a cohesive whole. The Function Stack is the central concept of Jungian Cognitive Functions, and provides a framework for understanding how these cognitive tools are wielded by an individual.
+INTRODUCTION
 
-Darkness and light, good and evil, land or sea, male or female, left and right, past and future, logic and emotion, old and young, day and night, the list goes on and on. In this way, so too does human cognition come in opposite, yet complimentary pieces.
+In this article, we pull together the previous sections into a cohesive whole. The Function Stack is the central concept of Jungian Cognitive Functions, and provides a framework for understanding how these cognitive tools are wielded by an individual.
 
-You may have noticed how in the past sections, each item described, each method and the attitudes, come in opposites. Introversion and Extroversion are opposed, Judging Methods are opposed to Perceiving methods, Thinking is opposed to Feeling, and Sensing is opposed to Intuition. They are not contradictory, but complimentary (or at least should be, as will be seen). This core idea of opposition provides a sense of balance, but also specialization. So too is this idea present in the function stack.
+Darkness and light, good and evil, up and down, male or female, left and right, past and future, logic and emotion, old and young, day and night, the list goes on and on. In this way, so too does human cognition come in opposite, yet complimentary pieces.
+
+You may have noticed how in the past sections, each item described, methods and the attitudes, come in opposites. Introversion and Extroversion are opposed, Judging Methods are opposed to Perceiving methods, Thinking is opposed to Feeling, and Sensing is opposed to Intuition. They are not contradictory, but complimentary (or at least should be, as will be seen). This core idea of opposition provides a sense of balance, but also specialization, where separate pieces fill in for the weaknesses of other pieces. So too is this idea present in the function stack.
 
 The Function Stack
 
-The Function stack is a definitive order of functions in a human psyche, which are staggered in terms of strength, and positioned according to their role in the stack. There are 4 functions in a stack which an individual uses in varying degrees in order to perform cognitive evaluations to process all the data that they encounter; to observe it, and to come to results, both externally, dealing with the environment, and internally, dealing with the self. The Function Stack is symmetrical in several ways: by strength, by attitude, and by method. Now, in English:
+The Function stack is a definitive order of functions in a human psyche, which are staggered in terms of strength, and positioned relatively to provide equality in several different aspects. There are 4 functions in a stack which an individual uses in varying degrees in order to perform cognitive evaluations to process all the data that they encounter; to observe it, and to come to results, both externally, dealing with the environment, and internally, dealing with the self. The Function Stack is symmetrical in several ways: by strength, by attitude, and by method. Now, in English:
 
-An individual has 4 of the 8 functions, which were covered in the last section. The individual's first function, also called the Dominant, is the strongest function. The person uses their dominant primarily. The second function, also called the Auxiliary, is the second strongest function. The Tertiary is the third function, and as such is third strongest, and the inferior is the last strongest, which means it is the weakest.
+An individual has 4 of the 8 functions, which were covered in the last section. The individual's first function, also called the Dominant, is the strongest function. The person uses their dominant primarily. The second function, also called the Auxiliary (awks-ill-ery), is the second strongest function. The Tertiary (ter-she-air-ee) is the third function, and as such is third strongest, and the inferior is the last strongest, which means it is the weakest.
 
 Chart.jpg
 
@@ -28,27 +30,27 @@ auxiliary function has an <span a1> extroverted attitude, the
 tertiary function has an <span a2> introverted attitude, and, opposite the dominant, the
 inferior function has an <span a1> extroverted attitude.
 
-     e function stack has two Axes, or two contrasting attitude pairs that function together. 
+Notice how in either situation, the function stack has two Axes, or two contrasting attitude pairs that function together: the first and third functions share an attitude, as well as the second and fourth. We'll discuss this shortly. 
 
 The Function stack is balanced in terms of method.
 
 If the
 Dominant function has an <span b1> Judging method, then the
-auxiliary function has a <span b2> Perceiving method, the
-tertiary function has a <span b2> Perceiving method, and the
-inferior function has an <span b1> Judging method.
+Auxiliary function has a <span b2> Perceiving method, the
+Tertiary function has a <span b2> Perceiving method, and the
+Inferior function has an <span b1> Judging method.
 
 If the
 Dominant function has a <span b1> Perceiving method, then the
-auxiliary function has an <span b2> Judging method, the
-tertiary function has an <span b2> Judging method, and the
-inferior function has a <span b1> Perceiving method.
+Auxiliary function has an <span b2> Judging method, the
+Tertiary function has an <span b2> Judging method, and the
+Inferior function has a <span b1> Perceiving method.
 
 
 
-The last method is the other method of the same method type as the first, and the thi last two methods in the stack have the opposite methods of the same method type as the first two. So, if the first function had the feeling method, which is a judging method, then the last function would be the opposite method of that same type, in this case, that would mean the inferior function would have the Thinking method.
+The first and last function methods are of the same method type, and the middle two are of the same method type. So, if the first function had the Feeling method, which is a judging method, then the last function would be the opposite method of that same type, in this case, that would mean the inferior function would have the Thinking method.
 
-With these rules, there are 16 possible function stacks that can be made. Here is the list of each one:
+With these rules, there are 16 possible function stacks that can be made:
 
 Stack 'title'	Dominant / First	Auxiliary / Second	Tertiary / Third	Inferior / Fourth
 ESFP	Se	Fi	Te	Ni
@@ -69,10 +71,6 @@ ISTP	Ti	Se	Ni	Fe
 INTP	Ti	Ne	Si	Fe
 
 
-
-
-
-
 [Insert 16 types table as shown above in html]
 
 The above table will be very helpful as you go through this section, and you will be referencing it often.
@@ -82,28 +80,176 @@ Now that you've seen all the function stacks, let's go through this again.
 
 The Dominant function is the first function in the function stack, followed by the Auxiliary. Notice that each function resides as the dominant function for 2 of the 16 function stacks. This is because for any dominant, the Auxiliary can have either of the methods from the opposite method type.
 
-Following, the Tertiary is the opposite method of the same method type as the auxiliary, with the opposite attitude, and lastly, the Inferior 
+Following, the Tertiary is the opposite method of the same method type as the Auxiliary, with the opposite attitude, and lastly, the Inferior is the opposite method of the same method type as the Dominant, and continues the pattern, so has the opposite attitude of the Tertiary.
 
-For example, suppose the Dominant was Se. The auxiliary has to be of the opposite method type, which would be a judging method, so either Thinking, or Feeling. It also has to be introverted, because the attitude switches as you step down the stack. So, it can either be Ti or Fi, in this specific example.
+For example, suppose the Dominant was Se. The auxiliary has to be of the opposite method type, which would be a judging method, so either Thinking, or Feeling. It also has to be introverted, because the attitude switches as you step down the stack. So, it can either be Ti or Fi, in this specific example. Following, the Tertiary is the Same method type, but opposite method, with the opposite attitude. So, if the Auxiliary is Ti, the Tertiary is Fe, and if the Auxiliary is Fi, the Tertiary is Te. Finally, the Inferior has the opposite method of the same method type as the Dominant, with the opposite attitude, which in this case is Se. Thus, there are two stacks that can be made with Se as the dominant; Se Ti Fe Ni, or Se Fi Te Ni.
 
+Notice that in every stack, the Dominant and Tertiary share and attitude, and the Auxiliary and Tertiary share an attitude. These two pairs are called the Attitude Axes. They work together as a pair because they share the same attitude, which we will discuss shortly.
+
+Previously we talked about how the function stack is balanced by attitude and by function methods. In terms of attitude, the function stack is equivalent from both sides. The a b a b pattern equally represents each attitude equally. However, the strength of the first function, moving down to the last, is decreasing, so while the attitudes are balanced, the use of the attitudes is not, and this concept is crucial moving forward.
+
+This setup of functions provides an interesting result. Each function stack contains all four of the function methods, as well as all 4 of the function types, as in, one Je function, one Ji function, one Pe function and one Pi function (though not in that order, of course). This means each type is able to make inward and outward judgements, as well as make inward and outward observations, and process data using each of the function methods (Sensing, iNtuition, Feeling, Thinking).
+
+FUNCTION PAIRINGS
+
+You may notice that with each function stack, there are natural pairs of functions. Let's take as an example the two function stacks 'Ne Fi Te Si' and 'Fi Ne Si Te'. Notice that each function stack has both 'Ne Si' and 'Fi Te' in them, but for the first, the 'Ne Si' pair is on the outside, and for the second, the 'Ne Si' pair is on the inside. For every function stack, there are functions like these that come in pairs. These pairs are: Fi and Te, Ti and Fe, Ne and Si, and Ni and Se.
+
+Each of these pairs is significant when understanding the function stack relations I'll be describing in a moment. In each situation, both functions in the pair have opposite attitudes, and are of the same method type, but a different method. This means that they both work as a team to either perceive or judge (depending on the pair) information both introvertedly and extrovertedly, and in both areas.
+
+For example, in the Se and Ni pair, Se takes in direct sensory data, photographically and directly, while Ni takes in indirect impressions of patterns from the subconscious, loosely and amorphously. Functionally, they do two completely different things. While it is this difference that enables them to balance and compensate each other, it is this same stark contrast that can cause a great deal of tension in the function stack. However, it is also this large difference in functionality that can create schisms in the stack, as we will touch on shortly.
+
+
+FUNCTION POSITIONS IN THE STACK
+
+DOMINANT FUNCTION
+
+The dominant is the head of the function stack. The individual uses the dominant function as their main tool for interacting with information that they come across. It is their go to, primary mental cognitive tool that they use.
+
+Because individuals use their Dominant function so effortlessly and naturally, they tend to ignore that they are even using it. It is like breathing air: although it is something you do, it something you don't even realize you do, because it's part of your nature. 
+
+The Dominant is typically the home base for conscious thought. Individuals trust it, tend to identify with it, and in most cases align their sense of identity with it, as it is in many ways their core viewing angle for the world- because they process the majority of their information with the Dominant, they tend to see the world through that perspective.
+
+AUXILIARY FUNCTION
+
+The Auxiliary is the second function in the function stack. It is the second function people use, which is the tool they use when they find information that the dominant doesn't know how to deal with, or typically doesn't encounter. Because it is the second tool, it is not quite as strong. However, it works in a different area than the Dominant, and so has some distinction from the Dominant. Typically, people will recognize that when they use it, they act somewhat differently than how they see themselves, but the Auxiliary does not conflict with the Dominant; rather, it aids the Dominant. Auxiliary means essentially 'helper', which describes this relationship fairly well. 
+
+TERTIARY FUNCTION
+
+The tertiary is the third function in the stack. The Tertiary shares an attitude with the dominant, and has the opposite method of the same method type as the Auxiliary. The tertiary creates a function pair with the Auxiliary, but also is a sort of partner to the Dominant.
+
+The Tertiary often goes unnoticed, but is silently in the background aiding the Dominant, as it has the same attitude. The Tertiary helps the Dominant by providing silent support in the background. Individuals often don't notice their Tertiary, because it is relatively weak, and also because it somewhat eclipsed by the Dominant.
+
+
+INFERIOR FUNCTION
+
+The Inferior function is fourth in the function stack, and the weakest. It has the opposite attitude of the Dominant, and the opposite method of the same method type.
+
+The Inferior goes largely unnoticed, and is very weak in terms of development in early ages, but that does not mean it goes unused. The Inferior can actually be incredibly strong, but can go unnoticed by the Individual.
+
+The Inferior has the opposite attitude of the Dominant, and the opposite method of the same method type. This causes a schism, which is a key concept in understanding function stack dynamics. Because the inferior is perhaps best understood in juxtaposition to the Dominant, we'll discuss this aspect of the inferior in the stack relations section shortly.
+
+A SIMPLE ANALOGY
+
+A simple way to view the function stack is as the limbs on our bodies. In this analogy, the Dominant is the Right hand, the Auxiliary the left hand, the Tertiary, the right leg, and the Auxiliary the left leg.
+
+Right handed individuals find that they have strong use and precision with their right hand, and trust it with every task. The left hand is also used often, but is not trusted as much as the right hand. Still, they both can perform core tasks together, and well. The right leg is also capable, but not as useful for performing specific tasks as the hands. The left leg is thought of least, but is necessary for the individual to function.
+
+When running or walking, the opposite limb swing in the same direction, much like function pairs for the function stack, which share method types. The limbs on the right and left side share attitudes, respectively. And lastly, the limbs on the top and bottom represent the two halves of the function stack in terms of strength. Yes, legs are stronger than arms, which does not make the analogy consistent in that sense. But in terms of precision, the arms have more precision than legs, which is true analogically for the first two functions and last two functions in the function stack.
+
+In any case, this is just a simple analogy to aid in understanding the function stack. Use it as you will.
+
+(Note, The effects of handedness on the function stack is an intriguing question, but not one we will discuss here).
+ 
 
 INTERSTACK RELATIONS
+ 
+The function stack is just that, a stack; an ordered arrangement of functions. While each function operates independently, it is the person using all the functions together. Because of this, the functions have specific operations and behaviours when they are used in tandem. By understanding each of these relations, we can understand how the stack as a whole works better.
 
- 
-
- 
-
-The cognitive function stack has a developmental timeline. Functions that are
+Understanding function strength dynamics can help in understanding how the functions work together.
 
 
+DOMINANT-AUXILIARY
+
+The Dominant-Auxiliary relationship is the core duo of the psyche. Individuals use the Dominant and Auxiliary as their primary tools for their interaction with the world. They tend to be the most observable through people's thoughts and behaviours, and comprise the main tools of the function stack, as they are the two strongest functions.
+
+The Dominant and Auxiliary differ in both attitude and in method type. Because the Auxiliary differs in both of these areas, it does not directly conflict with the Dominant, which is the case with the inferior. This means that the individual can accept the Auxiliary and use it without feeling like the Dominant is being 'overthrown' so to speak. This difference does provide a small schism in some ways, one being that because it has the opposite attitude as the Dominant, which people tend to identify with, individuals might feel like using the Auxiliary feels somewhat 'foreign' or alien, in a way. This can be reconciled as the Auxiliary develops, which we will discuss later.
+
+Because the Dominant and Auxiliary differ in both attitude and in method type, the Auxiliary can balance and provide support for the Dominant by offering capabilities in areas the Dominant can't cover. The Auxiliary is the head of the attitude axis that the Dominant is not part of, which tends to be its main role in the function stack.
+
+For individuals, the Auxiliary acts as a sort of bridge to the inferior, as it shares the same attitude with the Inferior, but has a method type. This means it does not conflict with the Dominant as much as the Inferior does. This means that as the individual uses the Auxiliary, they can begin to recognize the inferior and in turn learn to understand it and find reconciliation.
+
+In short, the Dominant is the leader of the function stack, with the Auxiliary providing the second.
+
+DOMINANT-TERTIARY
+
+The Dominant and Tertiary both share the same attitude, and comprise the Dominant attitude axis. They do differ in method type, but this tends not to be an issue in the psyche because the attitudes are  the same.
+
+The Tertiary, in this relationship, acts as a backup for the Dominant. The Tertiary is a sort of 'background process' that compliments the Dominant and enables it to work more smoothly, sort of like a secretary, or mop-up crew that works to allow the Dominant to work in the foreground.
+
+For example, if we take the Ne Ti Fe Si stack, the Dominant and Tertiary are Ne and Fe. Fe, the Tertiary, works in the background, and makes value based judgements. This allows Ne to take in data, meander and observe as it will, while Fe silently works with this data as it is taken in to determine what the value of the observed objects is. For the individual, this enables them to focus on using the Dominant Ne, directing their focus where they wish, and semi-subconsciously using Fe to direct their attention. If this makes little sense, don't worry, this is just an introduction, and will make sense as you continue to explore functions, and the function stack.
+
+The basic idea is that the Tertiary supports the Dominant, enabling it to work smoothly.
+
+AUXILIARY-TERTIARY
+
+The Auxiliary and Tertiary are a functional pair. They both share a method type, but have opposite attitudes. It is noteworthy that both these functions have the opposite method type as the Dominant. While the function stack has two functions in the middle that contrast in method type with the Dominant, the Dominant is very strong, meaning that this method type difference is dwarfed by that, in a sense.
+
+The Auxiliary and Tertiary provide a certain cycle, of a sort. They are a complete function pair, which share a method type different than the Dominant. They can share information back and forth between the two attitudes without causing tension because of this shared method type. Because they have both the methods of that method type, it provides the individual with a full view of information from each of those methods.
+
+For example, in the Si Fe Ti Ne type, Fe and Ti are both judging functions, while the Dominant is a Perceiving function. Fe and Ti can work with the external, making value based judgements, as well as analyze the mechanics of systems. They can work together like this to provide a full sense to the individual of the judgement methods, and the information they can see, without opposing the Dominant.
+
+The Auxiliary and Tertiary comprise the middle of the function stack. They are a complete pair, and provide a sort of balance within the middle of the function stack. The Dominant and Inferior are the other pair, but the Inferior is at the end of the stack, and removed from the Dominant. So, the Auxiliary and Tertiary provide a sort of 
+completeness, which is different from the Dominant, but not in opposition to it.
+
+In this relationship, the Tertiary also supports the Auxiliary. The two functions are a function pair, so they work in tandem, but more so does the Tertiary help the second. We'll discuss this in depth later.
 
 
+In essence, the two middle functions provide some stability amidst the tension between the Dominant and Inferior.
+
+AUXILIARY-INFERIOR
+
+The Auxiliary and Inferior relationship is perhaps the second most important in the stack. The Auxiliary and Inferior both share the attitude that differs from the Dominant. This means that there tend to be somewhat of a disassociation between these two functions, and this axis, from the individual and their sense of identity.
+
+Because the Auxiliary and Inferior have the opposite attitude of the Dominant, they provide the opportunity for the individual to see the 'other end of the spectrum' so to speak, a chance for the individual to turn the other direction. It is not so much that this axis is inherently bad, but that to the individual, it can seem contradictory, oppositional, negating to the sense of the world that they hold as they see it through the Dominant. So, this axis provides a new viewpoint that can correct and properly orient the individual's perspective of the Dominant. This idea is present in the Dominant-Inferior relationship, as we will discuss shortly.
+
+The Auxiliary acts as a sort of bridge to the Inferior. Just as the Tertiary acts as a background helper and aid to the Dominant, so too does the Inferior act as a back up to, and show through the use of the Auxiliary. Because of this, when the individual uses the Auxiliary, the Inferior, and aspects of it begin to 'leak' through, visibly to the individual. This is not to say the Inferior wasn't previously present in their behaviour or thought, but it does become more noticeable through the use of the Auxiliary.
+
+The Auxiliary and Inferior can feel foreign to use to the individual. This is because the individual uses the Dominant predominantly, and becomes accustomed to it; so, when they use the Auxiliary, the difference in attitude can feel alien, as has been previously discussed. This can become problematic for the individual if they use the Auxiliary, and begins to spot traces of the Inferior showing through, and dislike these self expressions. Thus, in this way, the individual might try to estrange the Auxiliary and Inferior.
 
 
-Right hand right leg analogy
+TERTIARY- INFERIOR
+
+The Tertiary and Inferior are in a peculiar situation. If you refer back to the function stack chart, you'll notice that the Tertiary and Inferior of every type are also the first two functions of a function stack somewhere else. This means they relate in the same way the Dominant does to the Auxiliary, in other words, an opposite method type and opposite attitude. This, paired with the key aspect that they are in the lower end of the function stack, creates an interesting situation in how they interact with each other and the rest of the stack. Particularly, them being on the lower end of the stack means that their strength to the individual, and the individual's knowledge of how they work in the psyche tend to be lacking.
+
+The two lower functions operate more or less just below the individual's awareness. The individual will not typically notice when they use these functions because they don't use them completely consciously, they use them subconsciously. This, combined with the fact that the two functions operate just like a Dominant and Auxiliary (as they do for some other type), means that they are in a way a separate function stack, or team.
+
+Functionally, the essential result is that these two functions work together to help the first two functions better operate, but are behind the person's awareness.
+
+To some, it may seem bizarre to have mental functions happening that they are not aware of, but as we move forward, this idea will not be so foreign.
 
 
+DOMINANT-INFERIOR
 
-Good at some things, bad at others.
-Function Stack
-Function Axes
+Recall when we discussed function pairs. In a function pair, each function has an opposite function that differs in attitude, and is the same method type, but opposite method.
+
+
+The Dominant is the strongest tool in an individuals psyche, and because the individual uses it so often, easily and effortlessly, they can tend to identify with the Dominant function. Individuals see the use of this function, and the thought and idea patterns that go with it as stable, safe, and reliable. Individuals use this function most of their waking day, so their worldview, perspective, and fundamental view of the world tends to be based on this function.
+
+The Inferior function almost contradicts the Dominant. The Inferior is the polar opposite from the Dominant in terms of what it does and how it operates. Additionally, the person using the function is not very good at using the function, and can often find it senseless, nonsensical, or by definition, contrary to their understanding of the world.  Individuals are very poor at using this function, and can be infuriated or distraught when they find themselves inept or weak at dealing with the methods of thought the Inferior deals with.
+
+
+DEVELOPMENT.
+
+Function development is one of the core concepts in Jungian Cognitive Functions, and understanding Functions and function development can be one of the most beneficial things to learn and understand intimately. We will touch on this here shortly, but it is a complex and unique topic for which new understanding can continue to come over a lifetime.
+
+The cognitive function stack has a developmental timeline. Functions higher in the stack tend to develop earlier in a individual's life, whereas functions lower in the stack tend to develop much later. When a person is born, they naturally favor their dominant function, and use it near exclusively, as the other functions are not cognitively favored. As a person grows, slowly but surely, cognitively they begin to naturally use and develop other functions. A general timeline of the ranges of the main stages of development are:
+
+Dominant: 0-13
+Auxiliary:  11-23
+Tertiary:  18-33
+Inferior: 28…
+
+Note that functions can and do develop outside of those ranges, and that this is not a perfect or entirely accurate representation, but those are the areas where, from a combination of natural function development, and general personal growth, individuals' functions have their core development. The idea is the same, functions generally develop in order of the stack. The above chart is very, very rough; function development can differ depending on a variety of factors, including the circumstances an individual is in, thought patterns or frequent activities the person believes in, their acceptance of certain thoughts and beliefs relative to certain function thoughts, and their cognitive health and well-being. 
+
+DEVELOPMENT DYNAMICS & FUNCTION STRENGTH
+
+The function stack is balanced and symmetrical down the center in terms of attitude and method. However, the strength of each function can cause tensions and schisms that provide sources for development, as well as notable functional dynamics.
+
+Functions develop in order of the stack in terms of the strength of the function. This means that as time goes on, the individual has the ability to use lower functions much stronger than originally.
+
+This does not necessarily mean that the individual has more control over the function. Individuals learning how to use the function, and the actual strength of the function go hand in hand to determine function development, but these two aspects are separate. We will discuss these aspects in depth later. For now, function strength and development can be thought of as essentially the same thing.
+
+Born, 1 function, bias, loops, ignore function data
+Growth, 4 functions, balance, understanding, acceptance and full awareness.
+
+A STEP BACK
+
+At this point, you might be a little confused as to how this all fits together, which is true, in this way it has been presented, it probably makes little sense how any of this is relevant to anything.
+
+The reason we have covered function stacks and function stack relations this way is to transition into discussing each function stack individual. The next article is titled 'The 16 Function Stacks". In that section, we will discuss each function stack briefly, which will give you a better understand of how what we discussed in this section actually works. The next section is also about the 16 function stacks, but will discuss the Function Stacks more in depth;  how they work theoretically, how they work in individuals, and much more.  With this groundwork, you'll be able to understand on a more essential level how to cross-apply understandings about one function stack to understandings of another, which will hopefully help you make sense out of what right now might seem nonsensical.
+
+We aren't to that section quite yet, but it is not far away. The next couple sections are 'downhill' from here, and are very simple and straightforward compared to this one. However, do remember that the ideas here are core to Jungian Cognitive Functions. If you do not understand the Function stack on a fundamental level, consider rereading this section. Don't worry about understanding everything, but a firm grasp of just the idea will be central to moving forward.
+
+EXTRODUCTION
+
+In this article, we discussed the function stack; how many function stacks there are, how they are determined, and how the functions within them work together. The next article discusses each function stack briefly, as a snapshot of what we will discuss in the next section.
