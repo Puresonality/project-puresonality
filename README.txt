@@ -1,9 +1,8 @@
 ***GITHUB NOTICE***
 
 Welcome to Project Puresonality!
-Currently I have a website in progress to host all this info in a more accessible fashion.
-Meanwhile, this project contains all the content that I have written and is open to the community,
-for learning and/or content submissions. 
+
+This project is devoted to making information on Jungian Functions free, accessible, and accurate.
 
 If you are here to learn about Cognitive Functions,
 start in the in Site Intro section,
